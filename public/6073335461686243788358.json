@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437124708583",
+    "project_id": "keylimba-guide",
+    "storage_bucket": "keylimba-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437124708583:android:c65d64ac643ac11eac8a42",
+        "android_client_info": {
+          "package_name": "com.seonjusan.keylimba.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437124708583-c8leabgisoeqi1nq2kcm6uj7qsl49j8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZL6E1H14pdKv41dYDQKvZKs-czw4OBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437124708583-c8leabgisoeqi1nq2kcm6uj7qsl49j8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
